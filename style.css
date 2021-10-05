@@ -67,3 +67,7 @@ h2 {
   text-decoration: none;
   color: rgb(3, 95, 201) ;
 }
+
+.links-list li p {
+  color: black;
+}
