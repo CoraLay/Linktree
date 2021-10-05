@@ -55,8 +55,7 @@ h2 {
 }
 
 .links-list li{
-  margin: 1em;
-  padding: 1em;
+  margin: .5em 1em;
 }
 
 .links-list li a {
