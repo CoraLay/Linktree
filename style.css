@@ -15,6 +15,10 @@ body {
   font-family: 'Heebo', sans-serif;
 }
 
+header, main {
+  max-width: 700px;
+  margin: 0 auto;
+}
 .avatar {
   width: 120px;
   border-radius: 50%;
@@ -65,6 +69,7 @@ h2 {
   border-radius: 5px;
   text-decoration: none;
   color: rgb(3, 95, 201) ;
+  box-shadow: 5px 5px 10px rgba(5, 73, 151, 0.432);
 }
 
 .links-list li p {
